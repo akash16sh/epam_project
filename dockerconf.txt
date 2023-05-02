@@ -1,0 +1,5 @@
+--docker-server="https://index.docker.io/v1/" \
+--docker-username="akash2001sharma" \
+--docker-password="@Akash11906121" \
+--docker-email="akashsharma16101@gmail.com" \
+--namespace="dev"
